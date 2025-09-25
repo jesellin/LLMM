@@ -1,21 +1,28 @@
-# Ejemplo en Markdown  
+# Documento de Ejemplo en Markdown
 
-## 1. Introducción  
-Este es un **documento de ejemplo en Markdown**.  
-Markdown es un lenguaje ligero que permite dar formato a textos de forma sencilla y rápida.  
-
----
-
-## 2. Lista de ventajas  
-Algunas ventajas de Markdown son:  
-
-- **Simplicidad**: Es fácil de aprender.  
-- **Compatibilidad**: Funciona en muchas plataformas.  
-- **Flexibilidad**: Se puede convertir a HTML, PDF y otros formatos.  
+## 1. Introducción
+Este es un **ejemplo práctico en Markdown**.  
+Incluye cabeceras, texto con formato, listas, gráficos y tablas.  
+Es muy útil para documentación, apuntes o informes.
 
 ---
 
-## 3. Gráfico (ASCII)  
+## 2. Lista de Ventajas
+Algunas ventajas de usar Markdown son:
 
-Ejemplo de un gráfico de barras sencillo en Markdown usando texto:  
+- Es **fácil de aprender**.  
+- Es compatible con muchas plataformas.  
+- Permite exportar a **HTML**, **PDF** y otros formatos.  
+- Se usa mucho en **GitHub** y proyectos colaborativos.  
 
+---
+
+## 3. Gráfico (Mermaid)
+
+### Gráfico circular
+```mermaid
+pie title Distribución de Ventas
+  "Producto A" : 40
+  "Producto B" : 25
+  "Producto C" : 20
+  "Producto D" : 15
