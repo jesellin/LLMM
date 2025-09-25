@@ -7,10 +7,10 @@ Prueba **Markdown**.
 - Lista 2  
 - Lista 3
   
-### Gráfico de barras
+### Gráfico
 ```mermaid
-bar title Ventas por Producto
-    "Producto A" : 100
-    "Producto B" : 80
-    "Producto C" : 40
-    "Producto D" : 60
+pie title Distribución de Ventas
+  "Producto A" : 40
+  "Producto B" : 25
+  "Producto C" : 20
+  "Producto D" : 15
