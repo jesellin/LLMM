@@ -1,28 +1,16 @@
-# Documento de Ejemplo en Markdown
-
 ## 1. Introducción
-Este es un **ejemplo práctico en Markdown**.  
-Incluye cabeceras, texto con formato, listas, gráficos y tablas.  
-Es muy útil para documentación, apuntes o informes.
-
+Prueba **Markdown**.  
 ---
 
-## 2. Lista de Ventajas
-Algunas ventajas de usar Markdown son:
-
-- Es **fácil de aprender**.  
-- Es compatible con muchas plataformas.  
-- Permite exportar a **HTML**, **PDF** y otros formatos.  
-- Se usa mucho en **GitHub** y proyectos colaborativos.  
-
----
-
-## 3. Gráfico (Mermaid)
-
-### Gráfico circular
+## 2. Gráfico (Mermaid)
+- Lista 1  
+- Lista 2  
+- Lista 3
+  
+### Gráfico de barras
 ```mermaid
-pie title Distribución de Ventas
-  "Producto A" : 40
-  "Producto B" : 25
-  "Producto C" : 20
-  "Producto D" : 15
+bar title Ventas por Producto
+    "Producto A" : 100
+    "Producto B" : 80
+    "Producto C" : 40
+    "Producto D" : 60
