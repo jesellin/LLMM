@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+ <book1>
+    <title>Platero y yo</title>
+    <author>Juan Ramon Jimenez</author>
+ </book1>
+ <book2>
+     <title>Don Quijote</title>
+    <author>Miguel de Cervantes</author>
+ </book2>
+ <book3>
+    <title>Cien años de soledad</title>
+    <author>Gabriel García Marquez</author>
+ </book3>
+ </library>
