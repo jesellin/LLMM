@@ -1,6 +1,5 @@
 ## 1. Introducción
-Prueba **Markdown**.  
----
+Practica markdown
 
 ## 2. Gráfico (Mermaid)
 - Lista 1  
