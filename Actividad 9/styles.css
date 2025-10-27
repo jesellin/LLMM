@@ -1,0 +1,12 @@
+
+body {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
