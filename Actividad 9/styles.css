@@ -1,0 +1,18 @@
+
+body {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+.logo {
+    height: 48px;
+    vertical-align: middle;
+    margin-right: 12px;
+}
