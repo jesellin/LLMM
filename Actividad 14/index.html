@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>Actividad 14 - margin y padding</title>
+	<style>
+		body { margin: 20px; font-family: Arial, Helvetica, sans-serif; background: #fafafa; }
+		.container { max-width: 900px; margin: 0 auto; }
+		.box { background: #ffffff; border-radius: 6px; margin-bottom: 12px; }
+		h2 { font-family: Verdana, Geneva, sans-serif; margin: 0 0 8px 0; padding: 8px; display: inline-block; border: 3px solid #333; }
+		p { font-family: 'Courier New', Courier, monospace; background: #f4f4f4; }
+
+		/* Párrafo 1*/
+		.box1 { margin: 0px; }
+		.box1 p { padding: 50px; }
+
+		/* Párrafo 2*/
+		.box2 { margin: 30px; }
+		.box2 p { padding: 0px; }
+
+		/* Párrafo 3*/
+		.box3 { margin: 50px; }
+		.box3 p { padding: 30px; }
+
+		/* Párrafo 4*/
+		.box4 { margin: 30px; }
+		.box4 p { padding: 50px; }
+
+		/* Bordes personalizados de cada cabecera*/
+		.box1 h2 { border-color: #c0392b; }
+		.box2 h2 { border-color: #16a085; }
+		.box3 h2 { border-color: #2980b9; }
+		.box4 h2 { border-color: #f39c12; }
+	</style>
+</head>
+<!-- Parrafos -->
+<body>
+	<div class="container">
+		<div class="box box1">
+			<h2>Encabezado 1</h2>
+			<p id="p1">Lorem ipsum</p>
+		</div>
+
+		<div class="box box2">
+			<h2>Encabezado 2</h2>
+			<p id="p2">Lorem ipsum</p>
+		</div>
+
+		<div class="box box3">
+			<h2>Encabezado 3</h2>
+			<p id="p3">Lorem ipsum</p>
+		</div>
+
+		<div class="box box4">
+			<h2>Encabezado 4</h2>
+			<p id="p4">Lorem ipsum</p>
+		</div>
+	</div>
+</body>
+</html>
